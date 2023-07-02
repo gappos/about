@@ -1,0 +1,9 @@
+# Site settings
+title: GAPP
+author:
+  name: arturasmckwcz
+  email: gaposs@gmail.com
+description: "Playground project"
+
+# Build settings
+remote_theme: jekyll/minima
